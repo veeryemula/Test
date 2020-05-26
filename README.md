@@ -1,3 +1,3 @@
 # Test
 Temp Repository
-Added text in readme-edits branch
+Added text Edited this in master branch
